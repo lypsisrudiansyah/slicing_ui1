@@ -1,6 +1,9 @@
-# slicing1
+# Slicing UI 1
 
-A new Flutter project.
+## 1. Login and Listview Page
+![dnplayer_MWWDA3RXFm](https://github.com/lypsisrudiansyah/slicing_ui1/assets/52348378/861c90cd-ce8b-43a8-bc23-bae2a49b343a)
+
+
 
 ## Getting Started
 
